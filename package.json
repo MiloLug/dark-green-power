@@ -7,6 +7,7 @@
     "author": {
         "name": "Lia Va"
     },
+    "license": "MIT",
     "repository": {
         "url": "https://github.com/MiloLug/dark-green-power",
         "type": "git"
@@ -25,5 +26,8 @@
                 "path": "./themes/Dark-Green-Power-color-theme.json"
             }
         ]
+    },
+    "devDependencies": {
+        "@vscode/vsce": "^3.9.2"
     }
 }
