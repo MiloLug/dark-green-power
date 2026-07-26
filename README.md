@@ -1,4 +1,4 @@
 # README
-Dark-Green Theme for VSCode.
+Dark-Green Power Theme for VSCode.
 
-![](https://github.com/bakrimoharram/dark-green/raw/master/assets/preview.jpeg)
+![](https://github.com/MiloLug/dark-green-power/raw/main/assets/preview.jpeg)

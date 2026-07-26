@@ -1,17 +1,16 @@
 {
-    "name": "dark-green",
-    "displayName": "dark-green",
-    "description": "dark green theme.",
-    "publisher": "bakrimoharram",
+    "name": "dark-green-power",
+    "version": "0.1.0",
+    "displayName": "dark-green-power",
+    "description": "dark green power theme for Visual Studio Code",
+    "publisher": "liava",
     "author": {
-        "name": "Bakri Moharram",
-        "email": "bakri_moharram@hotmail.com"
+        "name": "Lia Va"
     },
     "repository": {
-        "url": "https://github.com/bakrimoharram/dark-green.git",
+        "url": "https://github.com/MiloLug/dark-green-power",
         "type": "git"
     },
-    "version": "0.0.2",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -21,9 +20,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Dark-Green",
+                "label": "Dark-Green Power",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Dark-Green-color-theme.json"
+                "path": "./themes/Dark-Green-Power-color-theme.json"
             }
         ]
     }
