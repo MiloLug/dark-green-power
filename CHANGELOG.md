@@ -4,7 +4,9 @@ All notable changes to the "dark-green-power" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.3.1] - 2026-08-08
+
+- Richer, more saturated greens
 
 ## [0.3.0] - 2026-07-26
 
